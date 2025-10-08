@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![Ishan's GitHub stats](https://beautiful-github-homepage.vercel.app/api?username=ishandutta2007)](https://github.com/ishandutta2007/beautiful-github-homepage)
 <!--
 **aegentfocks/aegentfocks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
